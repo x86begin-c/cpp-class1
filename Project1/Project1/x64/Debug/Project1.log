@@ -1,0 +1,6 @@
+﻿  作业1.cpp
+E:\githubCPP\cpp-class1\Project1\作业1.cpp(40,10): warning C4477: “printf”: 格式字符串“%03d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+      E:\githubCPP\cpp-class1\Project1\作业1.cpp(40,10):
+      请考虑在格式字符串中使用“%zd”
+  
+  Project1.vcxproj -> E:\githubCPP\cpp-class1\Project1\x64\Debug\Project1.exe
